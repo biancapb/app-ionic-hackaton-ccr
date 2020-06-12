@@ -1,0 +1,7 @@
+{
+  "name": "ionic-app-hackaton-ccr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
